@@ -53,3 +53,12 @@
   * show comments by user on specific issues
   * pass vote to user (duration: 6 months)
   * retract vote from user
+
+
+## Colors
+
+* #F7EEE2
+* #B0C8CA
+* #FB8C82
+* #BFA16F
+* #312613
